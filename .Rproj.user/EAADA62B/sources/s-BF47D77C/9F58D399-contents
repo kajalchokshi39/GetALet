@@ -1,0 +1,15 @@
+library(devtools)
+alphabet <-
+  function(i) {
+    a <- LETTERS
+    sample(a,1,replace=TRUE)
+  }
+#This creates the skeleton of an R package
+package.skeleton(list = "alphabet",
+                 name = "GetALet")
+
+
+library(devtools)
+install_github("kajalchokshi39/GetALet", force=T)
+library(GetALet)
+alphabet(1)

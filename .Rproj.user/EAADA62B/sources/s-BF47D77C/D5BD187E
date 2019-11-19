@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574032493367.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "836795514",
+    "id" : "D5BD187E",
+    "lastKnownWriteTime" : 1574182702,
+    "last_content_update" : 1574182702087,
+    "path" : "~/GetALet/GetALet/R/alphabet.R",
+    "project_path" : "GetALet/R/alphabet.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
