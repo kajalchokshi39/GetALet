@@ -1,0 +1,10 @@
+* installing *source* package ‘GetALet’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+Warning: /private/var/folders/zf/y003pfsn7zg860_fqtz_n1fh0000gn/T/RtmpHbYMrT/Rbuild91970fe570f/GetALet/man/GetALet-package.Rd:26: All text must be in a section
+Warning: /private/var/folders/zf/y003pfsn7zg860_fqtz_n1fh0000gn/T/RtmpHbYMrT/Rbuild91970fe570f/GetALet/man/GetALet-package.Rd:27: All text must be in a section
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (GetALet)
