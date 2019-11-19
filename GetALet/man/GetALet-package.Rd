@@ -13,8 +13,7 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{GetALet}
 \packageIndices{GetALet}
-~~ An overview of how to use the package, including the most ~~
-~~ important functions ~~
+The only function in this package is the alphabet function. 
 }
 \author{
 \packageAuthor{GetALet}

@@ -2,10 +2,10 @@
 \alias{alphabet}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Alpha BET I can produce a letter!
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+This package allows you to obtain a random letter
 }
 \usage{
 alphabet(i)
